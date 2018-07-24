@@ -8,7 +8,7 @@
   3. [腾讯电脑管家](https://mac.guanjia.qq.com/)
   4. [VMware Fusion](https://my.vmware.com/cn/web/vmware/info/slug/desktop_end_user_computing/vmware_fusion/10_0)
 - Windows
-  1. [Windows 10](<https://www.microsoft.com/zh-cn/software-download/windows10)
+  1. [Windows 10](https://www.microsoft.com/zh-cn/software-download/windows10)
   2. [软碟通 - UltraISO](https://cn.ultraiso.net/xiazai.html)
   3. [VMware 虚拟机](https://www.vmware.com)
   4. [鲁大师](http://www.ludashi.com/)
