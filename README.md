@@ -47,19 +47,41 @@
 ## 下载工具
 
 - [迅雷](http://dl.xunlei.com/)
+
 - [百度云盘](https://pan.baidu.com/download#pan)
-- [Flox - Mac](https://mac.eltima.com/download-manager.html)
+
 - [aria2](https://github.com/aria2/aria2)
+
 - [Free Download Manager](https://www.freedownloadmanager.org/zh/download.htm)
+
 - [Internet Download Manager](https://www.internetdownloadmanager.com/)
+
+- [utorrent](https://www.utorrent.com/intl/zh_cn/desktop/)
+
+- [qbittorrent](https://www.qbittorrent.org/download.php)
+
+- [bitcomet【Windows】](http://www.bitcomet.com/en/downloads)
+
+- [Transmission Torrent](https://transmissionbt.com/download/)
+
+- [Aria2](https://github.com/yangshun1029/aria2gui/releases)
+
+  > 参考链接：http://xclient.info/a/6b6c46df-3e4f-1b17-ae30-0c8b49df92cc.html?t=7a295ab0f8863cc95e16d2dfc026c155e7216dd1
+
+- [Flox【Mac OS】](https://mac.eltima.com/download-manager.html)
 
 ## 影音娱乐
 
-- [PotPlayer - Windows](https://potplayer.daum.net/)
-- [格式工厂 - Windows](http://www.pcgeshi.com/download.html)
 - [网易云音乐](http://music.163.com/#/download)
 - [QQ 音乐](https://y.qq.com/download/mac.html?part=1&ADTAG=YQQ)
 - 音乐间谍 - 自行体会
+- Windows
+  1. [PotPlayer](https://potplayer.daum.net/)
+  2. [MPC-HC](https://mpc-hc.org/downloads/)
+  3. [格式工厂](http://www.pcgeshi.com/download.html)
+- Mac OS
+  1. [Project IINA](https://lhc70000.github.io/iina/)
+  2. [Soda Player](https://www.sodaplayer.com/)
 
 ## 文本编辑
 
@@ -117,7 +139,7 @@
 - [Adobe](https://www.adobe.com/cn/downloads.html?promoid=RL89NGY7&mv=other)
 - [Adobe Zii CC](https://free.appnee.com/adobe-zii/)
 - [Mark Man](http://www.getmarkman.com/)
-- [Sketch - Mac OS](https://www.sketchapp.com/)
+- [Sketch【Mac OS】](https://www.sketchapp.com/)
 - [Axure](https://www.axure.com/download)
 
 ## 图片压缩
